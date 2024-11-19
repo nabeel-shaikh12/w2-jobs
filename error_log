@@ -1,0 +1,40 @@
+[07-Jun-2024 21:53:22 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 21:53:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 21:56:56 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 21:56:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:11:36 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:11:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:21:53 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:21:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:48 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:49 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:51 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:52 Asia/Kolkata] PHP Warning:  require_once(/home/w2j/public_html/public/index.php): Failed to open stream: No such file or directory in /home/w2j/public_html/index.php on line 21
+[07-Jun-2024 22:34:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w2j/public_html/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w2j/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/w2j/public_html/index.php on line 21
